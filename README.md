@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=devTaw&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=devTaw&hide_progress=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=devTaw&hide_progress=truetrue)
